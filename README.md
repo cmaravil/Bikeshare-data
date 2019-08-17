@@ -1,5 +1,7 @@
-# test-1
-### My first commit
+# Bikeshare data
+### Explored bikeshare data from Chicago, New York City and Washington.
 
-* item1
-* item2
+* The data can be queried by city and time period.
+* Trip duration can be queried by popular stations, popular trips and users info.
+
+
